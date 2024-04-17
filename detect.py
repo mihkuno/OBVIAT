@@ -18,8 +18,6 @@ if not cam.isOpened():
     print("Error: Could not open camera.")
     exit()
 
-
-counter = 0
 # Capture loop
 while True:
     # Capture frame-by-frame
